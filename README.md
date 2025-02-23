@@ -1,8 +1,8 @@
 # esx_fishing_hunting
-Fivem script using ESX Framework
+Fivem script using ESX Framework\n
 You can use OX Inventory or ESX base inventory
 All is configurable in config.lua
-## Fishing systen
+## Fishing system
 Fishing zones drawed on the map by a circle
 Random drop
 Random waiting time for a fish coming to you line
